@@ -1,1 +1,2 @@
 # -Advanced-Styling-and-JavaScript_task3
+This project is a visually engaging Anime Fun Carousel created using HTML, CSS, and JavaScript as part of my internship at ApexPlanet. It features a smooth image slider with custom navigation buttons, animated text effects, and dynamic background gradients that change with each slide. The design is fully responsive across all screen sizes, and the layout is optimized using modern CSS techniques like Flexbox and media queries. This carousel serves as a creative and interactive showcase of front-end development skills.
